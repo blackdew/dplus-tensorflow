@@ -1,6 +1,6 @@
 tensorflow 강의용 실습파일
 
-파이썬
+python
 numpy 
 pandas
 Tensorflow
