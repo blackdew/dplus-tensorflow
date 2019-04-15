@@ -9,4 +9,3 @@ logistic regression
 neural network
 CNN
 
-
